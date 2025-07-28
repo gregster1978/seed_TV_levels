@@ -1,1 +1,10 @@
-
+{
+    "symbol": "test",
+    "description": "Mój testowy symbol",
+    "prefix": "MOJTEST",
+    "type": "economic",
+    "timezone": "Etc/UTC",
+    "listing_currency": "USD",
+    "session": "24x7",
+    "data_status": "endofday"
+}
